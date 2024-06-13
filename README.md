@@ -25,4 +25,4 @@
 - REST, SOAP, Git, React, Django, Nodesjs, Docker
 
 ## Socials
-![<img src="path/to/image.png">](https://link-to-your-URL/)
+[<img src="linkedinlogo.png">](https://www.linkedin.com/in/harsiratgrewal/)
