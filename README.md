@@ -1,5 +1,5 @@
 # About
- Final year CS undergrad. Prospective graduate pursuing MS in AI. Currently working with Java, and learning Python. 
+ Final year CS undergrad. Prospective graduate student for Masters in AI. Currently working with Java, and learning Python. 
 
 #### Programming Languages
 - Expertise: Java, C++
