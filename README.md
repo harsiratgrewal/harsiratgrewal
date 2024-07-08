@@ -22,7 +22,7 @@
 - Windows Server / PowerShell
 
 #### API, Version Control, & Other Frameworks
-- REST, SOAP, Git, React, Django, Nodesjs, Docker
+- REST, SOAP, Git, React, Django, Node.js, Docker
 
 ## Socials
 [<img src="Socials/linkedinlogo.png" width="35" height="35">](https://www.linkedin.com/in/harsiratgrewal/)
