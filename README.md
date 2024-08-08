@@ -1,7 +1,7 @@
 # About
- Looking to contribute in development & security of ML models.
- Expreience in Java, Python, C/C++, C#.
- Familiar with Azure, SQL, Git, API, HTML/CSS, Javascript
+ Enthusiastic about the development & security of ML models.
+ Experience in Java, Python, C/C++, C#.
+ Familiar with Azure, SQL, Git, API, HTML/CSS, JavaScript, React, Node.
 
 
 ## Socials
