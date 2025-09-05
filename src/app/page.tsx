@@ -64,7 +64,7 @@ export default function Home() {
           {[
             {
               title: 'Project One',
-              desc: 'Brief description of what it is and why it matters.',
+              desc: 'Brief  of what it is and why it matters.',
               href: 'https://github.com/you/project-one',
             },
             {
