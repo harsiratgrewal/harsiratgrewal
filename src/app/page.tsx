@@ -25,7 +25,7 @@ export default function Home() {
       >
         <Container maxWidth="md">
           <Stack spacing={3} alignItems="center" textAlign="center">
-            <Avatar alt="Harsirat Grewal" sx={{ width: 140, height: 140 }} src="/avatar.jpg">HG</Avatar>
+            <Avatar alt="Harsirat Grewal" sx={{ width: 140, height: 140 }} src="/avatar.jpg"></Avatar>
             <Typography variant="h3" fontWeight={700}>
               Harsirat Grewal
             </Typography>
