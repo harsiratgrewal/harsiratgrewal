@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Harsirat Grewal",
   description: "Personal website of Harsirat Grewal",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
