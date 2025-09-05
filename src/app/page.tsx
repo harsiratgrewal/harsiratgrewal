@@ -25,24 +25,24 @@ export default function Home() {
       >
         <Container maxWidth="md">
           <Stack spacing={3} alignItems="center" textAlign="center">
-            <Avatar sx={{ width: 96, height: 96 }}>YN</Avatar>
+            <Avatar alt="Harsirat Grewal" sx={{ width: 140, height: 140 }} src="/avatar.jpg">HG</Avatar>
             <Typography variant="h3" fontWeight={700}>
-              Your Name
+              Harsirat Grewal
             </Typography>
             <Typography variant="h6" color="text.secondary">
-              Software Engineer • Building useful, beautiful things on the web
+              Working towards making a change
             </Typography>
             <Stack direction="row" spacing={1}>
-              <Chip label="Next.js" />
-              <Chip label="TypeScript" />
-              <Chip label="MUI" />
+              <Chip label="Full Stack Developer" />
+              <Chip label="Graduate Student (Artificial Intelligence)" />
+              <Chip label="AI Researcher" />
             </Stack>
             <Stack direction="row" spacing={2}>
               <Button component={Link} href="#projects" variant="contained">
                 Projects
               </Button>
               <Button component={Link} href="/resume.pdf" variant="outlined">
-                Résumé
+                Resume
               </Button>
             </Stack>
           </Stack>
@@ -101,14 +101,13 @@ export default function Home() {
         </Typography>
         <Typography>
           Email me at{' '}
-          <Button href="mailto:you@yourdomain.com">
-            you@yourdomain.com
+          <Button href="mailto:harsiratgrewal.hg@gmail.com">
+            harsiratgrewal.hg@gmail.com
           </Button>{' '}
           or find me on{' '}
-          <Button href="https://linkedin.com/in/yourhandle" target="_blank">
+          <Button href="https://www.linkedin.com/in/harsiratgrewal/" target="_blank">
             LinkedIn
           </Button>
-          .
         </Typography>
       </Container>
     </Box>
