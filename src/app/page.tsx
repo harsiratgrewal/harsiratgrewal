@@ -245,7 +245,7 @@ export default function Home() {
                         <Typography sx={{ mb: 0.5, fontSize: '12px', fontWeight: 'bold' }}>
                           {p.title}
                         </Typography>
-                        <Typography color="text.secondary" sx={{fontSize: '10px'}}>
+                        <Typography color="text.secondary" sx={{fontSize: '10px' }}>
                           {p.blurb}
                         </Typography>
                       </Box>
@@ -273,7 +273,7 @@ export default function Home() {
                       <Typography variant="subtitle1" sx={{ mb: 1.5, color: "text.secondary" }}>
                         Overview
                       </Typography>
-                      <Typography variant="body1">{active.details}</Typography>
+                      <Typography variant="body1" sx={{whiteSpace: "pre-line"}}>{active.details}</Typography>
                     </Box>
 
                     <Box>
