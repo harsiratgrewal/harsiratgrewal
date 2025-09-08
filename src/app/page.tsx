@@ -201,7 +201,7 @@ export default function Home() {
      {
       school: "Oakland University",
       degree: "B.S. in Computer Science",
-      period: "2024 – Present",
+      period: "2022 – 2024",
       location: "Rochester, Michigan",
       logo: "/oakland.png",
       link: "https://catalog.oakland.edu/preview_program.php?catoid=68&poid=14697",
